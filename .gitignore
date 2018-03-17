@@ -1,4 +1,12 @@
+# Data
 *.csv
 *.zip
+
+# MacOS
 .DS*
+
+# Jupter Notebook
 .ipy*
+
+# Team
+*team*
